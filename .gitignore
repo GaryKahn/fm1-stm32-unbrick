@@ -1,0 +1,9 @@
+build/
+build-selftest/
+third_party/
+backups/
+logs/
+*.fwsc
+src/wl82loader.bin
+.DS_Store
+__pycache__/
