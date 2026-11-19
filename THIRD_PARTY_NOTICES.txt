@@ -45,4 +45,4 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ==== cmsis_device_f4, cmsis_core: Apache-2.0 (STMicroelectronics, Arm)
 
-==== wl82loader.bin: NOT in this repository. JieLi's WL82 flash loader, fetched by tools/fetch_deps.sh from kagaimiq/jl-uboot-tool (sha256-checked) and built into the firmware you build yourself.
+==== wl82loader.bin: NOT in this repository. JieLi's WL82 flash loader, fetched by tools/fetch_deps.py from kagaimiq/jl-uboot-tool (sha256-checked) and built into the firmware you build yourself.

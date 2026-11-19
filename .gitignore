@@ -7,3 +7,5 @@ logs/
 src/wl82loader.bin
 .DS_Store
 __pycache__/
+rehearsal/
+build/obj*/
